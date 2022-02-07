@@ -6,6 +6,7 @@ I have defined three resarch questions for this dataset:
 *Is there a significant difference between alcohol consumption and the parents job?
 
 *does alcohol consumption during the weekend influence the students final grade?
+
 Assumptions
 
 Many factors are involved in student academic failure. It seems academic failure rate is high in Portuguese secondary school students. Although many factors such as family situation, parent’s occupation, student’s study time, and many other factors are effective, but one of the determining factors is alcohol consumption among Portuguese secondary school students.
