@@ -1,4 +1,5 @@
 Analysis of student alcohol consumption.
+
 I have defined three resarch questions for this dataset:
 
 *Is there a significant difference between alcohol consumption and the parents education?
